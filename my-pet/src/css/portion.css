@@ -1,0 +1,23 @@
+.portion-infos {
+  width: 250px;
+}
+
+span {
+  text-decoration: none;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.arrow-left {
+  width: 100px;
+  background-color: #ffcfd6;
+  border: solid;
+  border-radius: 250px;
+}
+
+.link-color {
+  color: black;
+}
